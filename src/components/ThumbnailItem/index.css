@@ -1,0 +1,13 @@
+/* Write your code here. */
+.thumbnail-img {
+  height: 8vh;
+  width: 5vw;
+  opacity: 0.5;
+}
+.margin {
+  margin-right: 15px;
+}
+.selected {
+  height: 8vh;
+  width: 5vw;
+}
